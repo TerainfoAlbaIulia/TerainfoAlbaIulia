@@ -9545,6 +9545,7 @@ a.text-dark:hover, a.text-dark:focus {
 }
 
 .page-section .page-section-heading {
+  padding-top: 2rem;
   padding-bottom: 3rem;
   font-size: 2.25rem;
   line-height: 2rem;
