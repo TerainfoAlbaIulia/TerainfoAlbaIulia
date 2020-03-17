@@ -9820,17 +9820,6 @@ form .row:first-child .floating-label-form-group {
   height: 7rem;
 }
 
-#ContactsPadding
-{
-  padding-top: 3rem;
-}
-
-@media (min-width: 992px) {
-  #ContactsPadding {
-    padding-top: 6rem;
-  }
-}
-
 #contact
 {
   padding-top: 1rem;
