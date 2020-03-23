@@ -5805,4 +5805,5 @@ h6
 button.close 
 {
   background-color: white;
+  border: none;
 }
