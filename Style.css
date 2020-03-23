@@ -5801,3 +5801,8 @@ h6
 {
   padding-top: 10rem;
 }
+
+button.close 
+{
+  background-color: white;
+}
